@@ -1,0 +1,9 @@
+C:\Users\GhostKoka\source\repos\JTAG_test\JTAG_test\bin\Debug\JTAG_test.exe.config
+C:\Users\GhostKoka\source\repos\JTAG_test\JTAG_test\bin\Debug\JTAG_test.exe
+C:\Users\GhostKoka\source\repos\JTAG_test\JTAG_test\bin\Debug\JTAG_test.pdb
+C:\Users\GhostKoka\source\repos\JTAG_test\JTAG_test\obj\Debug\JTAG_test.csprojAssemblyReference.cache
+C:\Users\GhostKoka\source\repos\JTAG_test\JTAG_test\obj\Debug\JTAG_test.Form1.resources
+C:\Users\GhostKoka\source\repos\JTAG_test\JTAG_test\obj\Debug\JTAG_test.Properties.Resources.resources
+C:\Users\GhostKoka\source\repos\JTAG_test\JTAG_test\obj\Debug\JTAG_test.csproj.GenerateResource.cache
+C:\Users\GhostKoka\source\repos\JTAG_test\JTAG_test\obj\Debug\JTAG_test.exe
+C:\Users\GhostKoka\source\repos\JTAG_test\JTAG_test\obj\Debug\JTAG_test.pdb
